@@ -1,9 +1,8 @@
-![web developer](https://www.designveloper.com/wp-content/uploads/2021/12/Web-development-languages.png)
+![unior web developer](https://www.designveloper.com/wp-content/uploads/2021/12/Web-development-languages.png)
 
+## i'm Forhad hossain .
+#### ➡️ Junior web developer ⬅️
 
-
-                                         # i'm Forhad hossain .
-   #### ➡️ front-end web developer ⬅️
 
 Summary:
 
