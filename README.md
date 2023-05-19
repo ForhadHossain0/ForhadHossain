@@ -1,9 +1,10 @@
+![Junior web devoloper](https://devtorium.com/wp-content/uploads/2021/06/blog-image-1-LN_programming_languages_2022.svg)
+
+# I'm Forhad hossain .
+#### ➡️ Junior web devoloper ⬅️ 
 
 
-# i'm Forhad hossain
-#### ➡️ junior web developer ⬅️
-
-Summary:
+Summary :
 
 As a front-end developer, I am skilled in creating visually appealing and user-friendly interfaces for web applications. With a strong understanding of HTML, CSS, and JavaScript, I am able to transform design concepts into responsive and interactive websites. I have experience working with various front-end frameworks and libraries, such as React and Angular, enabling me to build dynamic and efficient web applications.
 
@@ -15,14 +16,13 @@ Additionally, I value clear communication and effective collaboration, as I beli
 
 Overall, I am a dedicated front-end developer who combines technical expertise with a creative mindset to produce engaging and intuitive web interfaces. With my passion for continuous learning and problem-solving, I am excited to contribute to projects that push the boundaries of user experience and deliver exceptional digital solutions.
 
-Skills: Bootstrap / JS / HTML / CSS
+Skills:  Bootstraps/ REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on web development  
-- 🌱 I’m currently learning React 
+- 🔭 I’m currently working on web development 
+- 🌱 I’m currently learning React and JS 
 - 👯 I’m looking to collaborate on github 
-- 🤔 I’m looking for help with oo 
-- 💬 Ask me about website development  
-- 📫 How to reach me: work  
+- 💬 Ask me about website 
+- 📫 How to reach me: forhadhossainopc@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ForhadHossain0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ForhadHossain/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ForhadHossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ForhadHossain/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ForhadHossain)  
