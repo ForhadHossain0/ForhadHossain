@@ -14,7 +14,6 @@ I have a solid understanding of responsive design principles and mobile-first de
 
 Additionally, I value clear communication and effective collaboration, as I believe they are crucial for successful project outcomes. I am adept at working in Agile environments, participating in sprint planning, and delivering work on time.
 
-Overall, I am a dedicated front-end developer who combines technical expertise with a creative mindset to produce engaging and intuitive web interfaces. With my passion for continuous learning and problem-solving, I am excited to contribute to projects that push the boundaries of user experience and deliver exceptional digital solutions.
 
 Skills:  Bootstraps/ REACT / JS / HTML / CSS
 
