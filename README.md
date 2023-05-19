@@ -1,6 +1,6 @@
 ![web developer](https://c4.wallpaperflare.com/wallpaper/435/542/549/javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-preview.jpg)
 
-   #     . i'm Forhad hossain .
+   #     i'm Forhad hossain .
    #### ➡️ front-end web developer ⬅️
 
 Summary:
