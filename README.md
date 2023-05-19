@@ -1,7 +1,8 @@
-                                                    ### i'm Forhad hossain
-                                                     #### web developer
+                                                    # i'm Forhad hossain
+                                                     ### web developer
 ![web developer](https://wallpapercave.com/wp/wp9641787.jpg)
 
+summary:
 
 As a front-end developer, I am skilled in creating visually appealing and user-friendly interfaces for web applications. With a strong understanding of HTML, CSS, and JavaScript, I am able to transform design concepts into responsive and interactive websites. I have experience working with various front-end frameworks and libraries, such as React and Angular, enabling me to build dynamic and efficient web applications.
 
