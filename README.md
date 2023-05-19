@@ -1,9 +1,7 @@
-![web developer]([https://wallpapercave.com/wp/wp9641787.jpg](https://c4.wallpaperflare.com/wallpaper/435/542/549/javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-preview.jpg))
+![web developer](https://c4.wallpaperflare.com/wallpaper/435/542/549/javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-preview.jpg)
 
-
-
-#                                          .      i'm Forhad hossain        .
-### ➡️ front-end web developer ⬅️
+   #   `#0969DA`  . i'm Forhad hossain .
+   ### ➡️ front-end web developer ⬅️
 
 Summary:
 
@@ -36,8 +34,6 @@ Skills: Bootstrap / JS / HTML / CSS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ForhadHossain0)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ForhadHossain0&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ForhadHossain0)  
 
 ![GitHub metrics](https://metrics.lecoq.io/ForhadHossain0)  
 
