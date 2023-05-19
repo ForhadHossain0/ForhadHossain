@@ -1,4 +1,4 @@
-### Hi there 👋, i'm Forhad hossain
+### i'm Forhad hossain
 #### web developer
 ![web developer](https://wallpapercave.com/wp/wp9641787.jpg)
 
