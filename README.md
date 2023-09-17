@@ -6,7 +6,7 @@
 
 Summary :
 
-As a front-end developer, I am skilled in creating visually appealing and user-friendly interfaces for web applications. With a strong understanding of HTML, CSS, and JavaScript, I am able to transform design concepts into responsive and interactive websites. I have experience working with various front-end frameworks and libraries, such as React and Angular, enabling me to build dynamic and efficient web applications.
+As a web designer, I am skilled in creating visually appealing and user-friendly interfaces for web applications. With a strong understanding of HTML, CSS, and JavaScript, I am able to transform design concepts into responsive and interactive websites. I have experience working with various front-end frameworks and libraries, such as React and Angular, enabling me to build dynamic and efficient web applications.
 
 In my previous roles, I have collaborated closely with designers and back-end developers to ensure seamless integration of front-end components with backend functionality. I possess a keen eye for detail and a passion for delivering high-quality user experiences. I am constantly staying updated with the latest industry trends and best practices to enhance my skills and produce modern, accessible, and performant web applications.
 
