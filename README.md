@@ -1,4 +1,4 @@
-![Junior web devoloper](https://devtorium.com/wp-content/uploads/2021/06/blog-image-1-LN_programming_languages_2022.svg)
+![Junior web devoloper](https://img.freepik.com/free-vector/development-typographic-header-presenting-content-web-pages-website-layout-composition-color-development-idea-computer-technology-flat-vector-illustration_613284-2493.jpg?w=826&t=st=1698242487~exp=1698243087~hmac=1afd211709dde08215d582771d93d28e0f14559432c8dea21f75e7372e4dc114)
 
 # I'm Forhad hossain ✅
 #### ➡️ Junior web designer⬅️ 
